@@ -1,0 +1,27 @@
+
+body{
+    background-image:url("kk.jpg");
+}
+.center { 
+    text-align: center;
+    width: max-content;
+    margin: 0 auto;
+}
+img {
+    width: 50%;
+text 
+
+
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 20px solid black ;
+    padding: 60px;
+    margin: 40px;
+}
+footer {
+       text-align: center;
+       padding: 1px;
+       background-color: rgb(233, 223, 220);
+       color: black;
